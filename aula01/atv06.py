@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 raio = float(input('Digite o valor do raio: '))
 altura = float(input('Digite o valor da altura: '))
@@ -16,7 +15,6 @@ valor = qnt_latas * 50
 
 print(f"A área do cilindro é de {area_cilindro:.2f}, e você precisará de {qnt_latas:.2f} para pintar o cilindro. Tendo um valor final de R${valor:.2f}")
 
-=======
 
 raio = float(input('Digite o valor do raio: '))
 altura = float(input('Digite o valor da altura: '))
@@ -34,4 +32,3 @@ valor = qnt_latas * 50
 
 print(f"A área do cilindro é de {area_cilindro:.2f}, e você precisará de {qnt_latas:.2f} para pintar o cilindro. Tendo um valor final de R${valor:.2f}")
 
->>>>>>> 69a257d7dab764c97586d61d64dc3155cece5d87
