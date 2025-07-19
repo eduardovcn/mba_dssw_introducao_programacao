@@ -1,5 +1,5 @@
 
-distancia = float(input("Qual a distância da sua viagem? "))
+distancia = float(input("Qual a distância da sua viagem em km? "))
 vel_media = float(input("Qual a velocidade média? "))
 
 tempo_total = distancia / vel_media
