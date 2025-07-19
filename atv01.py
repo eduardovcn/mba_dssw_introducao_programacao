@@ -1,4 +1,3 @@
-
 mensagem = 'EU AMO PROGRAMAR EM PYTHON'
 
 
